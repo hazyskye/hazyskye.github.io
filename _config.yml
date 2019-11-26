@@ -21,7 +21,7 @@ description:
 # List of links in the navigation bar
 navbar-links:
   About: "about"
-  Discography: "Discography"
+  Discography: "discography"
   Store: "store"
 
 # Image to show in the navigation bar - image must be a square (width = height)
