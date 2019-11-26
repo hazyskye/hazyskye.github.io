@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Discography
-subtitle: Discography
+title: Bibliography
+subtitle: Bibliography
 ---
 
 **Content Coming Soon**
