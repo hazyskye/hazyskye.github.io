@@ -9,8 +9,8 @@ My virtue is **bleeding**, living *this* life, the devil deceives me
 
 Fuck a bitch when she bleedin, not the kind of time I'm heedin
 
+<img src="{{site.baseurl}}/img/kcobain.jpg">
+
 Doin drugs in back of the club and cut her arm screamin'
 
 Droppin pills in my hennesy, touchin her, **pretend** for Peep that I'm Lil Kennedy
-
-<img src="{{site.baseurl}}/img/kcobain.jpg">
