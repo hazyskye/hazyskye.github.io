@@ -12,3 +12,5 @@ Fuck a bitch when she bleedin, not the kind of time I'm heedin
 Doin drugs in back of the club and cut her arm screamin'
 
 Droppin pills in my hennesy, touchin her, **pretend** for Peep that I'm Lil Kennedy
+
+<img src="{{site.baseurl}}/img/kcobain.jpg">
