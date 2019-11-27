@@ -31,3 +31,5 @@ I tire of relying upon a soul built for failure,
 Twas ne’er said it’d be easy
 
 but there has to be a life better than this.
+
+<img src="{{site.baseurl}}/img/lateralus.jpg">
