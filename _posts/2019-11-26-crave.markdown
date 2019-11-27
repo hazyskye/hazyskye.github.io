@@ -24,3 +24,5 @@ if to be a loser is where you succeed
 I can’t say that I didn’t pass out, black out, and act like a moron indeed
 
 but it’s where a junkie feels comfortable can’t you see
+
+<img src="{{site.baseurl}}/img/crave.jpg">
