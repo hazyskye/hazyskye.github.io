@@ -17,4 +17,4 @@ Keep seeing the blue face and it makes me wanna die, makes me wanna cry..
 
 Yeah I'm a Crybaby but we can learn to fly.
 
-<img src="{{site.baseurl}}/img/lilpeep.jpg">
+<img src="{{site.baseurl}}/img/lilpeep.jpg"> <img src="{{site.baseurl}}/img/liljeep.jpg">
