@@ -5,6 +5,8 @@ date:   2019-11-26 07:58:00 -0600
 categories: blog post
 ---
 
+<img src="{{site.baseurl}}/img/devil.jpg">
+
 I used to see through the devil’s eyes
 
 Now I see right through him and evil lies
