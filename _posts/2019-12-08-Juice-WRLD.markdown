@@ -20,3 +20,5 @@ I can feel the pain & I'm *cryin*
 Lost too young, so Ima flex on the pills behind it
 
 Gonna kill myself soon, where the drugs at
+
+<img src="{{site.baseurl}}/img/juicerip.jpg">
