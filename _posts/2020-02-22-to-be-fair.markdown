@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "To Be Fair"
+date:   2020-02-22 10:58:00 -0600
+categories: blog post
+---
+
+<img src="{{site.baseurl}}/img/letterkennyquotes.jpg">
